@@ -35,10 +35,9 @@
 
 ### 🌱 Atualmente estudando
 
-- 🔍 SQL & Banco de Dados Relacionais
-- ⚙️ Estruturas de Dados e Algoritmos
+- 🔍 SQL e Bancos de Dados Relacionais
 - 💻 Web com HTML, CSS, JS
-- 🔧 Programação em C++ e Java para sistemas de baixo nível
+- 🔧 Programação em C++ e Python para Back-end
 
 ---
 
