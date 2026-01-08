@@ -1,57 +1,48 @@
-<h1 align="center">Olá, eu sou o Plínio 👋🏾</h1>
+<h1 align="center">Plinio Lima</h1>
+
 <h3 align="center">
-Engenharia de Computação • Tecnologia • Sistemas • Segurança • Código que resolve problemas
+Engenharia de Computação • Pentest • Segurança da Informação
 </h3>
 
 <p align="center">
-  <i>"Transformando ideias em sistemas funcionais, eficientes e bem pensados."</i>
+  <i>Aprendendo, praticando e documentando.</i>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Engenharia de Computação** no <b>Instituto Federal da Paraíba (IFPB)</b>
-- 🛠️ Background em tecnologia, infraestrutura e desenvolvimento de sistemas
-- 🔍 Perfil analítico, curioso e orientado à resolução de problemas
-- 🚀 Em constante evolução, buscando unir <b>engenharia, software e segurança</b>
+Sou estudante de **Engenharia de Computação** no **Instituto Federal da Paraíba (IFPB)**, com foco em **segurança da informação**, especialmente **Pentest** e fundamentos de segurança ofensiva.
 
-Atualmente foco meus estudos em **desenvolvimento de software**, **bancos de dados**, **programação de baixo e médio nível** e **fundamentos de sistemas computacionais**.
+Tenho background em tecnologia e sistemas, gosto de entender como as coisas funcionam em baixo nível e venho construindo minha base em **redes**, **sistemas operacionais**, **programação** e **segurança**, sempre com prática e documentação.
+
+Meu objetivo é evoluir como profissional de segurança, entendendo não apenas as ferramentas, mas os conceitos e processos por trás delas.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## Áreas de estudo e prática
+
+- Fundamentos de redes e protocolos (TCP/IP, DNS, HTTP)
+- Sistemas Linux e Windows voltados à segurança
+- Enumeração e análise de serviços
+- Segurança ofensiva e defensiva em ambientes controlados
+- Automação e scripts em Python para apoio a Pentest
+
+---
+
+## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub em Números
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pliinio&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliinio&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🌱 Atualmente estudando
-
-- 🗄️ **SQL & Bancos de Dados Relacionais**
-- 🌐 **Desenvolvimento Web** (HTML, CSS, JavaScript)
-- ⚙️ **C++ e Python** aplicados a back-end, lógica e sistemas
-- 🔐 Fundamentos de **segurança da informação** e arquitetura de sistemas
-
----
-
-## 📫 Contato & Redes
+## Contato
 
 <p align="center">
   <a href="mailto:pliniocampina@gmail.com">
@@ -65,6 +56,5 @@ Atualmente foco meus estudos em **desenvolvimento de software**, **bancos de dad
 ---
 
 <p align="center">
-  <b>✨ Obrigado por visitar meu perfil.</b><br>
-  Se chegou até aqui, já temos assunto pra conversar.
+  Vamos contruir algo juntos?
 </p>
