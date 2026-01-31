@@ -62,13 +62,6 @@ Meu objetivo é evoluir como profissional de segurança, entendendo não apenas 
   <a href="https://www.linkedin.com/in/pl%C3%ADnio-lima-738831278">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/pliniolima">
-    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a href="https://www.hackthebox.com/profile/pliniolima">
-    <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
