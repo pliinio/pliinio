@@ -1,5 +1,3 @@
-# Plínio Lima
-
 <h1 align="center">
   <img src="https://img.shields.io/badge/PLINIO_LIMA-000000?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000" />
 </h1>
